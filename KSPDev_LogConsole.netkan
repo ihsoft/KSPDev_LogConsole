@@ -1,0 +1,21 @@
+{
+    "spec_version"   : 1,
+    "name"           : "KSPDev LogConsole",
+    "identifier"     : "KSPDev_LogConsole",
+    "abstract"       : "Advanced console for in-game logging system. Supports persistense, filtering, records grouping, and many more.",
+    "resources": {
+        "homepage"   : "http://forum.kerbalspaceprogram.com/index.php?/topic/150786-12-kspdev-logconsole-v0120-utils-v0190/",
+        "repository" : "https://github.com/ihsoft/KSPDev_LogConsole/tree/master/Source",
+        "bugtracker" : "https://github.com/ihsoft/KSPDev_LogConsole/issues/new"
+    },
+    "license"        : "public-domain",
+    "author"         : ["IgorZ"],
+    "$vref"          : "#/ckan/ksp-avc",
+    "$kref"          : "#/ckan/github/ihsoft/KSPDev_LogConsole",
+    "install"        : [
+        {
+            "file"       : "GameData/KSPDev",
+            "install_to" : "GameData"
+        }
+    ]
+}
