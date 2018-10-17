@@ -1,3 +1,6 @@
+# 0.21 (October 16th, 2018):
+* [Change] KSP 1.5 compatibility.
+
 # 0.20 (July 9th, 2018):
 * [Fix] Trully use the `KSPDev utils 0.37` library.
 * [Change] Migrate into a dedicated HitHub repository.
