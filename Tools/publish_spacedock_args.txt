@@ -1,0 +1,5 @@
+--project=1912
+--login=<<SECRET>>
+--changelog=../CHANGELOG.md
+--ksp_version=latest
+--archive=../KSPDev_LogConsole_v0.20.zip
