@@ -17,5 +17,6 @@
             "file"       : "GameData/KSPDev",
             "install_to" : "GameData"
         }
-    ]
+    ],
+    "x_netkan_epoch": "1"
 }
