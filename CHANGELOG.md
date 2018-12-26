@@ -1,3 +1,6 @@
+# 1.0 (December 24th, 2018):
+* [Change] KSP 1.6 compatibility.
+
 # 0.21 (October 16th, 2018):
 * [Change] KSP 1.5 compatibility.
 
