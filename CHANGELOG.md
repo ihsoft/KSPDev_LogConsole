@@ -1,4 +1,4 @@
-# 1.1 (pre-release):
+# 1.1 (April 23rd, 2019):
 * [Enhancement] Show quick filter string in the dialog title.
 * [Change] KSP 1.7 compatibility.
 
