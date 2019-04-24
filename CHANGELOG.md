@@ -1,3 +1,5 @@
+# 1.1 (pre-release):
+
 # 1.0 (December 24th, 2018):
 * [Change] KSP 1.6 compatibility.
 
