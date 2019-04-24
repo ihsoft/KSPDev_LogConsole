@@ -15,7 +15,8 @@
       "{MINIAVC_VERSION_FILE}",
       "/Binaries/KSPDev_Utils*",
       "/Binaries/MiniAVC*",
-      "-*.xml"
+      "-*.xml",
+      "-KSP-AVC.version"
     ],
     "Plugins/PluginData" : [
       "/settings.cfg"
