@@ -206,6 +206,9 @@ sealed class ConsoleUI : MonoBehaviour {
     }
     if (isConsoleVisible) {
       var title = "KSPDev Logs Console";
+      if (!string.IsNullOrEmpty(quickFilterStr)) {
+        title += " (filter: <i>" + quickFilterStr + "</i>)";
+      }
       if (logUpdateIsPaused) {
         title += " <i>(PAUSED)</i>";
       }

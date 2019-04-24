@@ -44,7 +44,7 @@ static class LogFilter {
     }
   }
   
-  /// <summary>Verifies if <paramref name="log"/> macthes the filters.</summary>
+  /// <summary>Verifies if <paramref name="log"/> matches the filters.</summary>
   /// <param name="log">A log record to check.</param>
   /// <returns><c>true</c> if any of the filters matched.</returns>
   public static bool CheckLogForFilter(LogInterceptor.Log log) {
