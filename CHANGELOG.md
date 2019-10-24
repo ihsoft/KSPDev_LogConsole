@@ -1,4 +1,4 @@
-# 2.0 (per-release):
+# 2.0 (October 23rd, 2019):
 * [Change] KSP 1.8 compatibility. __WARNING__ Mod versions of `v2.0` and higher are not compatible to KSP versions prior to `1.8`!
 
 # 1.1 (April 23rd, 2019):
