@@ -2,4 +2,4 @@
 --login=<<SECRET>>
 --changelog=../CHANGELOG.md
 --ksp_version=latest
---archive=../KSPDev_LogConsole_v1.1.zip
+--archive=../KSPDev_LogConsole_v2.0.zip

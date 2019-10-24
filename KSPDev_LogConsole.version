@@ -3,25 +3,25 @@
     "DOWNLOAD": "https://github.com/ihsoft/KSPDev_LogConsole/releases", 
     "KSP_VERSION": {
         "MAJOR": 1, 
-        "MINOR": 7, 
+        "MINOR": 8, 
         "PATCH": 0
     }, 
     "KSP_VERSION_MAX": {
         "MAJOR": 1, 
-        "MINOR": 7, 
+        "MINOR": 8, 
         "PATCH": 99
     }, 
     "KSP_VERSION_MIN": {
         "MAJOR": 1, 
-        "MINOR": 7, 
+        "MINOR": 8, 
         "PATCH": 0
     }, 
     "NAME": "KSPDev LogConsole", 
     "URL": "https://raw.githubusercontent.com/ihsoft/KSPDev_LogConsole/master/KSPDev_LogConsole.version", 
     "VERSION": {
-        "BUILD": 7052, 
-        "MAJOR": 1, 
-        "MINOR": 1, 
-        "PATCH": 37780
+        "BUILD": 7235, 
+        "MAJOR": 2, 
+        "MINOR": 0, 
+        "PATCH": 38917
     }
 }
