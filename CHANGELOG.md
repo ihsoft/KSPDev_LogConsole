@@ -1,4 +1,4 @@
-# 2.1 (pre-release):
+# 2.1 (April 27th, 2020):
 * [Change] Stop complaining about KSP minor version change.
 
 # 2.0 (October 23rd, 2019):
