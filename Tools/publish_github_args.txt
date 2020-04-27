@@ -4,4 +4,4 @@
 --changelog=../CHANGELOG.md
 --as_draft
 --title=LogConsole v{tag}
---archive=../KSPDev_LogConsole_v2.0.zip
+--archive=../KSPDev_LogConsole_v2.1.zip
